@@ -1,5 +1,11 @@
 ### Hi there 👋
 
+### NPM
+https://www.npmjs.com/~jotar910
+
+### Extensions
+https://chrome.google.com/webstore/search/jotar910
+
 <!--
 **jotar910/jotar910** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
