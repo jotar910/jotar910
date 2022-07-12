@@ -1,5 +1,8 @@
 ### Hi there 👋
 
+### Linkedin
+https://www.linkedin.com/in/jo%C3%A3o-rodrigues-84268613b/
+
 ### NPM
 https://www.npmjs.com/~jotar910
 
